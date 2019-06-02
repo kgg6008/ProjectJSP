@@ -1,0 +1,10 @@
+<!-- 
+This page is logout page.
+return main.jsp when this page is finished.
+ -->
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%
+	session.invalidate();
+	response.sendRedirect("main.jsp");
+%>
