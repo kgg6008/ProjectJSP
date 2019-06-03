@@ -1,4 +1,4 @@
 # ProjectJSP
 movie review site
 
-temp.projectJSP is C://temp/projectJSP
+temp.ProjectJSP is C://temp/ProjectJSP
